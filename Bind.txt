@@ -1,0 +1,5 @@
+"space" -> add a number
+"x" or "0" -> clear the box
+"h" -> solve the case
+"s" -> solve the game
+"r" -> reset grid
