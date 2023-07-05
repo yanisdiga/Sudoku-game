@@ -1,6 +1,8 @@
 # Sudoku Game
 An Sudoku Game developped in C with ncurses
 
+![My Image](sudoku_logo.png)
+
 # Installation
 Notice : you must have ncurse lib
 ```
